@@ -37,7 +37,7 @@ class SubDue:
 
 
 class Experiment:
-    iterations = 50
+    iterations = 100
     param_n = 10        #Number of subgraph
     param_w = 4     #Window Size
     param = [param_n, param_w]
